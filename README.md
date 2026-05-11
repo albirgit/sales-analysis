@@ -63,6 +63,9 @@ Ecommerce-Sales-Analysis/
 Each visualization is accompanied by **clear business insights** explaining what the trend means.
 
 ---
+### 📊 Interactive Dashboard (Power BI)
+- Built a comprehensive Power BI dashboard to track real-time KPIs.
+- **Key Visuals:** Clustered bar charts for Profit by Region, KPI cards for Total Sales, and slicers for Fiscal Year analysis.
 
 ## 🗄️ SQL Analysis
 The dataset was analyzed using **SQL-style queries executed through Pandas**, allowing SQL-based analysis directly on DataFrames without creating a separate database file.
